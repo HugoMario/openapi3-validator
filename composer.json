@@ -1,9 +1,9 @@
 {
-    "name": "HugoMario/openapi3-validator",
+    "name": "bug-hunters/openapi3-validator",
     "type": "library",
     "description": "PHP Library for Open API 3 validation",
     "keywords": ["openapi3","validator"],
-    "homepage": "https://github.com/HugoMario",
+    "homepage": "https://github.com/bug-hunters",
     "license": "MIT",
     "authors": [
         {
