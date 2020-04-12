@@ -1,0 +1,16 @@
+{
+    "name": "HugoMario/openapi3-validator",
+    "type": "library",
+    "description": "PHP Library for Open API 3 validation",
+    "keywords": ["openapi3","validator"],
+    "homepage": "https://github.com/HugoMario",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hugo Mercado",
+            "email": "hugo.mario.mercado@gmail.com",
+            "homepage": "https://github.com/HugoMario",
+            "role": "Developer"
+        }
+    ],
+}
