@@ -1,7 +1,7 @@
 {
     "name": "bug-hunters/openapi3-validator",
     "type": "library",
-    "description": "PHP Library for Open API 3 validation",
+    "description": "PHP Library request validation based on Open API 3 definition",
     "keywords": ["openapi3","validator"],
     "homepage": "https://github.com/bug-hunters",
     "license": "MIT",
@@ -12,5 +12,9 @@
             "homepage": "https://github.com/HugoMario",
             "role": "Developer"
         }
-    ]
+    ],
+    "require": {
+        "php": "^7.2.5",
+        "symfony/yaml": "^5.0"
+    }
 }
